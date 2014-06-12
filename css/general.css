@@ -27,6 +27,7 @@ img {
 }
 
 body {
+    margin; 0 2% 0 2%;
     background-color: #dddddd;
 }
 
@@ -39,7 +40,21 @@ h1 {
     line-height: 5rem;
     text-align: center;
     margin: 0;
+    padding: 0 0 1rem 0;
 }
+
+div img {
+    clear: both;
+    display: inline;
+    width: 50%;
+    padding: 0 .5rem 0 0;
+}
+ .one {
+     position: absolute;
+     right: 2%;
+     padding: 0 0 0 .5rem;
+ }
+
 
 
 
